@@ -47,3 +47,13 @@ When an emergency condition is detected, the system activates the buzzer. The PI
 
 ## 7. Project Status
 Prototype developed for academic demonstration.
+
+## 8. Conclusion
+
+The Smart College Laboratory Monitoring System demonstrates the use of ESP32 and multiple sensors for laboratory safety monitoring. It provides a prototype for detecting emergency conditions and generating alerts.
+
+## 9. Future Scope
+- IoT-based remote monitoring.
+- Mobile application integration.
+- Cloud-based data storage.
+- Improved emergency notification system.
